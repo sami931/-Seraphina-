@@ -1,0 +1,1 @@
+worker: python futures_bot_seraphina.py
